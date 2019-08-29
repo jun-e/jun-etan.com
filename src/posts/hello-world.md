@@ -20,7 +20,7 @@ sarola
 1. numbered
 3. sarlong
 
-![My site](images/sdg-sse.jpg)
+![My site](/images/sdg-sse.jpg)
 
 ---
 
