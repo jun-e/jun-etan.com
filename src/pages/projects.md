@@ -2,7 +2,7 @@
 title: 💼 Projects
 ---
 
-![](/images/dowhatyouwant.jpg)
+![](/assets/dowhatyouwant.jpg)
 
 ## Websites
 
