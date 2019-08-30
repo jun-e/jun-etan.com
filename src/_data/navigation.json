@@ -1,13 +1,23 @@
 {
   "items": [
     {
-      "text": "🏠 Home",
+      "text": "Home",
       "url": "/",
       "external": false
     },
     {
-      "text": "💼 Projects",
+      "text": "Projects",
       "url": "/pages/projects",
+      "external": false
+    },
+    {
+      "text": "Research",
+      "url": "/pages/research",
+      "external": false
+    },
+    {
+      "text": "Contact",
+      "url": "/pages/contact",
       "external": false
     }
   ]

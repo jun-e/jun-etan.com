@@ -1,7 +1,7 @@
 ---
-title: 💼 Projects
+title: Projects
 ---
-
+test
 ![](/assets/dowhatyouwant.jpg)
 
 ## Websites
