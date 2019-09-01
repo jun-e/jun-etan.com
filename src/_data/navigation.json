@@ -16,6 +16,16 @@
       "external": false
     },
     {
+      "text": "Interests",
+      "url": "/pages/interests",
+      "external": false
+    },
+    {
+      "text": "Sketches",
+      "url": "https://www.instagram.com/juneysketches",
+      "external": true
+    },
+    {
       "text": "Contact",
       "url": "/pages/contact",
       "external": false
