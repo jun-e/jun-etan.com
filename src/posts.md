@@ -1,4 +1,4 @@
 ---
-title: '✍️ All my blog posts'
+title: 'Blog'
 layout: 'layouts/archive.njk'
 ---

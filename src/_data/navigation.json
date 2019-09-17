@@ -6,13 +6,13 @@
       "external": false
     },
     {
-      "text": "Projects",
-      "url": "/pages/projects",
+      "text": "Research",
+      "url": "/pages/research",
       "external": false
     },
     {
-      "text": "Research",
-      "url": "/pages/research",
+      "text": "Projects",
+      "url": "/pages/projects",
       "external": false
     },
     {
@@ -24,6 +24,11 @@
       "text": "Sketches",
       "url": "https://www.instagram.com/juneysketches",
       "external": true
+    },
+    {
+      "text": "Blog",
+      "url": "/posts/",
+      "external": false
     },
     {
       "text": "Contact",
