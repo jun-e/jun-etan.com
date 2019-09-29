@@ -1,5 +1,5 @@
 ---
-title: Drawing Blocks
+title: Drawing Block
 metaDesc: Why I can't draw and have to write instead.
 socialImage: 
 date: '2019-08-27'

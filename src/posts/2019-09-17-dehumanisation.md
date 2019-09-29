@@ -1,5 +1,5 @@
 ---
-title: Thoughts on dehumanisations
+title: Thoughts on dehumanisation
 metaDesc: What will become of humanity??!
 socialImage: 
 date: '2019-09-17'
