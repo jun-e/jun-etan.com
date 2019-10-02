@@ -9,7 +9,7 @@ tags:
  
 ---
  
-Just finished reading [Moonwalking with Einstein: Art and Science of Remembering Everything](https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein), written by Joshua Foer who, interestingly enough, is the brother of one of my favourite authors, Jonathan Safran Foer. It was a breeze to read and I finished it within a few days, it being one of the "light books" that I was reading to counter balance some of the heavier ones that I am reading concurrently, when I didn't have the energy to ponder about existential problems ala Harari or Rushkoff. 
+Just finished reading [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/book/show/6346975-moonwalking-with-einstein), written by Joshua Foer who, interestingly enough, is the brother of one of my favourite authors, Jonathan Safran Foer. It was a breeze to read and I finished it within a few days, it being one of the "light books" that I was reading to counter balance some of the heavier ones that I am reading concurrently, when I didn't have the energy to ponder about existential problems ala Harari or Rushkoff. 
 
 *Moonwalking with Einstein* was an inspiring read, as a book on a person's journey with a satisfying end is wont to be. Foer chronicles his experiences of training for a year to win the US Memory Championship. Along the way are observations and thoughts about the connection between memorisation and learning. Also fun are the host of characters that he introduces, particularly the mental athletes that he met, who are exemplary figures of living interestingly unapologetically. Ed, his memory coach, is a character that he describes as the following:
 
