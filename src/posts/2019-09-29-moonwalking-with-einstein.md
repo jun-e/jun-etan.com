@@ -5,7 +5,7 @@ socialImage:
 date: '2019-09-29'
 tags:
   - blog
-  - book-notes
+  - reading
  
 ---
  
