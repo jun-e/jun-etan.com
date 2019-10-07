@@ -22,7 +22,7 @@ A quote that I like, by Turkish writer Elif Shafak, is
 
 The main languages that I have been learning more or less consistently are Japanese and Spanish, which I’ve been able to use in practical situations such as hitch hiking in Japan or going to the post office in Spain. Of late I’ve been learning Farsi as well, because one of my best friends is Iranian and I want to someday be able to read Persian poetry. Other languages that I’ve been fortunate enough to have as part of my upbringing are English, Mandarin Chinese, Cantonese, Malay, and a smattering of Hokkien Chinese.
 
-[Blog posts that are tagged under "language"](/tags/language)
+[Blog posts that are tagged under "languages"](/tags/languages)
 
 ### Music
 I’ve a bit of a complicated relationship with music. Thanks to an early childhood of learning the piano, I’ve got a pretty good ear and sense for music but it also took me some time as an adult to discard the negative association with regimented music practice from young. At the moment I’m learning the ukulele, the guitar, and may pick up piano again when a keyboard comes my way. 
