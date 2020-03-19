@@ -28,7 +28,7 @@ There are so many opportunities, and we need to snatch them up before the rich a
 
 ---
 
-Anyway, Day 2 has gone by without a hitch and I am rushing to finish this post so that I can rest and continue writing my article tomorrow. I have not been given a deadline but has to be done "as soon as possible".  
+Anyway, Day 2 has gone by without a hitch and I am rushing to finish this post so that I can rest and continue writing my article tomorrow. I have not been given a deadline but it has to be done "as soon as possible".  
 
 We stayed home the entire day today. I made noodle soup for lunch, and pasta for dinner, which probably means that our low carb diet is dangling outside the window. So far I've not had cabin fever, but I do have a craving for eggs, so tomorrow we may go and shop for some in the morning. 
 
