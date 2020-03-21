@@ -15,7 +15,7 @@ It is raining outside and the neighbourhood is enshrouded in a layer of mist. Th
 
 It is a good time to write. 
 
-I spent the morning finishing my article to my satisfaction, and after that I cooked and had lunch. After lunch I had the pleasant sensation of looking at one and a half days of weekend ahead with nothing to do, nowhere to go, no one to meet. Incidentally right before the restricted movement order (RMO - it seems that is this what people refer to it nowadays) I had had two weekends straight of intensive socialising because before that I was too busy to schedule any gatherings. As an introvert, I'm good now, socially, for the next two months or so.  
+I spent the morning finishing my article to my satisfaction, and after that I cooked and had lunch. After lunch I had the pleasant sensation of looking at one and a half days of weekend ahead with nothing to do, nowhere to go, no one to meet. Incidentally right before the restriction of movement order (RMO - it seems that is this what people refer to it nowadays) I had had two weekends straight of intensive socialising because before that I was too busy to schedule any gatherings. As an introvert, I'm good now, socially, for the next two months or so.  
 
 Now. What shall I do with myself? *rubs palms together in glee* 
 
