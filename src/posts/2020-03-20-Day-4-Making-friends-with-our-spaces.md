@@ -27,4 +27,4 @@ In our daily lives when we spend so much time outside of our homes, being dead t
 
 As it happens, eventually, one day, I would be able to take it no more, and launch into a comprehensive cleaning/decluttering operation. The results are always wonderful. The home would no longer be a daunting reminder of my failure to live like a respectable adult and I would know where everything was, how everything worked, and indeed, how everything looked. I would start to *inhabit* the space again. 
 
-Being that the case, I'm glad to see friends making their space inhabitable and cosy again, because we are going to spend a whole lot of time in our homes in the next couple of weeks. 
+Being that the case, I'm glad to see friends making their space inhabitable and cosy again. For me, I am also clearing out my kitchen, and from there I will continue to other parts of the house. I'm loving my home more and more, and looking forward to deepening the connection :) 
