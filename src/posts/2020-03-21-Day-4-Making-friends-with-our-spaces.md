@@ -21,10 +21,10 @@ Now. What shall I do with myself? *rubs palms together in glee*
 
 ---
 
-I've noticed that people are now transitioning into nesting mode, decluttering their rooms and desks, and dusting out long-forgotten corners of their abodes - what I call "making friends with their space".  
+I've noticed that people are now transitioning into nesting mode, decluttering their rooms and desks, and dusting out long-forgotten corners of their abodes - what I call "making friends 	with their space". My parents are clearing out their house, and my mum was marvelling at the pile of (other people's) trash in their condo's garbage room. Elsewhere, friends are discussing their decluttering strategies and cheering each other on in the journey of making sense of one's stuff.   
 
 In our daily lives when we spend so much time outside of our homes, being dead tired or completely distracted when we get back, we engage less and less with our space. I can think of particularly bad times of disruption (long periods of travel, or back-to-back deadlines) when I was only friends with the couch, the bed, and the toilet. The rest of the house I walked around as if I did not see it, and what I did see just made me cringe at my dismal housekeeping. We worked in cafes, ate out, and if we ate at home, Leo (bless him) cooked and did the dishwashing so I rarely stepped into the kitchen. 
 
 As it happens, eventually, one day, I would be able to take it no more, and launch into a comprehensive cleaning/decluttering operation. The results are always wonderful. The home would no longer be a daunting reminder of my failure to live like a respectable adult and I would know where everything was, how everything worked, and indeed, how everything looked. I would start to *inhabit* the space again. 
 
-Being that the case, I'm glad to see friends making their space inhabitable and cosy again. For me, I am also clearing out my kitchen, and from there I will continue to other parts of the house. I'm loving my home more and more, and looking forward to deepening the connection :) 
+Being that the case, I'm glad to see friends and family making their space inhabitable and cosy again. For me, I am also clearing out my kitchen, and from there I will continue to other parts of the house. I'm loving my home more and more, and looking forward to deepening the connection :) 
