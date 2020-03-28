@@ -1,5 +1,5 @@
 ---
-title: Day 11 
+title: Day 11 - A portrait
 metaDesc: 
 socialImage: 
 date: '2020-03-28'
