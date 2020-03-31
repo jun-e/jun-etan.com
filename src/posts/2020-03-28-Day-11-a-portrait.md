@@ -13,7 +13,7 @@ Saturday.
 
 I'm exhausted. Spent the last hour or so trying to draw self portraits with oil pastels. I'm not happy with any of them so I can't post any - which makes me a little grumpy. I know that the point of the exercise is not to have something to show for it but to spend time with the paper and the subject (my mug). But still. Argh. By the last one I was pretty much stabbing the paper with a crayon and attacking my mug on it. Zen me no zens. 
 
-All things considered it has been a good Saturday. I did spend the first half of the day working, but after lunch I stopped. Had a call with Komeil to hang out, and ended up sitting for two hours for a digital portrait drawing session. As he was testing out his Skype screensharing for future classes, I saw the portrait come into being on Photoshop, which was a pretty interesting process. 
+All things considered it has been a good Saturday. Had a call with Komeil to hang out, and ended up sitting for two hours for a digital portrait drawing session. As he was testing out his Skype screensharing for future classes, I saw the portrait come into being on Photoshop, which was a pretty interesting process. 
 
 <div style="text-align: center;">
 
