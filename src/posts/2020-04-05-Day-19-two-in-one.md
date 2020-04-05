@@ -41,7 +41,7 @@ In the morning I was going to set up my balcony plein air arrangement to paint w
 
 Then we set off to circle the surprisingly big compound. It's lovely, really. I also spotted a few plants outside neighbours' units that I would love to get cuttings of, but didn't feel comfortable to take without permission. Maybe next time I'll knock on their doors... or leave a note. We'll see. 
 
-Came back satisifed from the walk, and played a bit with my toy electric circuit board (it's a cool little toy that lets you assemble different setups to generate and use renewable energy at a small scale) and Lego. For lunch we experimented baked a pie using puff pastry that is one year into its expiry - apparently it's still edible - and post-lunch we had dessert with of affogato using the last bit of our precious ice-cream.
+Came back satisifed from the walk, and played a bit with my toy electric circuit board (it's a cool little toy that lets you assemble different setups to generate and use renewable energy at a small scale) and Lego. For lunch we experimented baked a pie topped with puff pastry that is one year into its expiry - apparently it's still edible - and post-lunch we had affogato using the last bit of our precious ice-cream.
 
 Napped. Chilled. Reviewed the week past. Watched a short environmental documentary that made me angry enough to post a long rant on a Whatsapp group - not gonna go into it here. Now I'm going to go make tuna mayo empanadas with the second batch of puff pastry that we defrosted. After dinner we will finish the movie that we started yesterday.
 
