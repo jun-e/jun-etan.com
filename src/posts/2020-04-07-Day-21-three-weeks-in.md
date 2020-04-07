@@ -2,7 +2,7 @@
 title: Day 21 - Three weeks in
 metaDesc: 
 socialImage: 
-date: '2020-04-07
+date: '2020-04-07'
 tags:
   - blog
   - general
