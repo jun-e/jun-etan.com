@@ -18,7 +18,7 @@ It may also be all the reading of the news. Although I'm not on Facebook and am 
 - People are dying, there are record deaths here and there that keep getting broken.
 - Selfish people are selfish. Selfish leaders are selfish, representative of their selfish people. 
 - Rich people and celebrities are getting attacked for their decadence and not being in touch with reality. 
-- Opinion pieces talk about how we cannot go back to business as usual after this. I think only people like me read them. In the meanwhile everyone around expects everything to go back to how things were a month ago, like how Sleeping Beauty's castle gets defrosted after the kiss.  
+- Opinion pieces talk about how we cannot go back to business as usual after this. I think only people like me read them. In the meanwhile everyone around expects everything to go back after lockdowns lift, to how things were a month ago, like how time stopped in Sleeping Beauty's castle.  
 - Chinese propaganda. American propaganda. American propaganda calling out Chinese propaganda. American stupidity and selfishness working against their own propaganda. Chinese propaganda seems to be having the last laugh. 
 - Zoom is bad. Yet everybody is still using it, and some are associating it with the propaganda wars between China and America. I just want to use software that prioritises privacy damn it.
 - Malaysia's MCO tightens its screws. A little and a little more, day by day. Drones, barbed wires, RM1000 fines, etc. 
