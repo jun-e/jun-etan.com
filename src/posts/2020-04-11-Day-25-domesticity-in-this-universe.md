@@ -29,7 +29,7 @@ Speaking of nature, I've been seeing pictures of how beautiful the skies are wit
 
 In a parallel universe I am now somewhere in Europe, a week early for the Internet Freedom Festival in Valencia, probably toasting with Eva who's flown from Brussels because it's a long weekend. It is probably Rome that we're in, because I wanted to see Bernini's sculptures. We are stuffing our faces with pizza and pasta. 
 
-In this parallel universe my landscape painting would still be at the rudimentary stage it was a year ago, I would not have had a delicious dinner with tempeh that I made myself, and I wouldn't be thinking of puff pastry or food security. My garden and my house would still be in a mess. I would have been in at least three countries within a month. My mental health would still be in a gentle but steady downward trend. 
+In that universe my landscape painting would still be at the rudimentary stage it was a year ago, I would not have had a delicious dinner with tempeh that I made myself, and I wouldn't be thinking of puff pastry or food security. My garden and my house would still be in a mess. I would have been in at least three countries within a month. My mental health would still be in a gentle but steady downward trend. 
 
 I think I'm happy in this universe. 
 
