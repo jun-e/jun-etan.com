@@ -16,14 +16,14 @@
       "external": false
     },
     {
-      "text": "Interests",
-      "url": "/pages/interests",
+      "text": "Resources",
+      "url": "/pages/resources",
       "external": false
     },
     {
-      "text": "Sketches",
-      "url": "https://www.instagram.com/juneysketches",
-      "external": true
+      "text": "Interests",
+      "url": "/pages/interests",
+      "external": false
     },
     {
       "text": "Blog",
@@ -31,8 +31,8 @@
       "external": false
     },
     {
-      "text": "Contact",
-      "url": "/pages/contact",
+      "text": "About",
+      "url": "/pages/about",
       "external": false
     }
   ]

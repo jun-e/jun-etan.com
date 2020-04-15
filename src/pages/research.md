@@ -1,28 +1,50 @@
 ---
 title: Research
 ---
-For most of my professional life I've been engaged in research, specifically research that often have policy or advocacy implications. 
 
-Just jump to the section that you are interested in:
+*Last updated: April 2020*
+
+I'm a bit of an academic mutt: I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
+
+Upon receiving my doctorate, I returned to Malaysia and worked in a think tank, Institute of Strategic and International Studies (ISIS) Malaysia, in its department that worked on sustainable development. Since leaving the think tank I have been working mostly freelance on commissioned research projects, except for a year (2017) when I worked on managing the communications for a regional NGO, Innovation for Change - East Asia. 
+
+Most of my work has been within civil society even though I've lectured part time in Monash University, Malaysia. In 2020 I received an [International Research and Collaboration Award](https://www.hps.cam.ac.uk/about/research-projects/histories-of-ai/fellowships-awards/tan) from the University of Cambridge, under their Department of History and Philosophy of Science, for their Mellon Sawyer Seminar entitled 'Histories of AI: A Genealogy of Power'. The fellowship runs for a year from May 2020 to April 2021, even though their main event has been pushed to July 2021, given the current circumstances of Covid-19.  
+
+---
+
+In this section you will find some information about my research interests, a list of published works, and some research ideas that I've proposed in the past. More details on specific projects can be found in the [Projects](/pages/projects/) section. Just jump to the sub-section that you are interested in:
 - [An overview of my research interests](#heading-my-research-interests) and my research path so far
-- [A list of my publications](#heading-my-publications), some with links to download
+- [A list of my published work](#heading-my-publications), including articles and academic papers
 - Some [research ideas that I've proposed](#heading-research-ideas) or played with, but have not been able to execute (yet!) 
 
-This page was last updated on (10 September 2019)
+---
 
 ### My Research Interests
-I'm a bit of an academic mutt, as I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
+My research interests are rather wide-ranging and often have an advocacy angle to them. For the time being, the main themes that I've explored are sustainable development, human rights, and digital communication. As time passed, my research interests gradually transitioned from digital communication to sustainable development, and back to digital communication, generally underpinned by a human rights focus. The intersections between the themes fascinate me. At the moment I am looking at digital rights, and artificial intelligence and human rights, within the context of Southeast Asia.
 
-![](/images/research-interests.png)
-This is an image that I made in 2018 to explain to my students the network of my research interests. For the time being I guess the three main themes are sustainable development, human rights, and digital communication. Some elaborations to give more context:
+![](/images/research-interests-updated.png) 
+Some elaborations to give more context:
 - 2008 - 2012 - When I was doing my PhD in Nanyang Technological University (in Communication), I was studying how people build trust on platforms such as Couchsurfing.com, where you first have to make an impression online, then move the connection offline. The thesis covered subcultural capital and "performing cosmopolitanism" in the subculture of Couchsurfing, and also included a chapter on the history of Couchsurfing up till 2012. 
 - 2013 - 2015 - I came back to Malaysia and worked in a think tank, the Institute of Strategic and International Studies (ISIS) Malaysia, in the department specialising in environmental policy and sustainable development. My focus at that point was social and solidarity economy (SSE), looking at case studies on alternative economies that respect people and the planet. During this time I wrote a paper on SSE and sustainable development in Malaysia. On the side I was also running [MESYM.com](https://www.mesym.com), an environmental platform based in Malaysia, with its associated MESYM Documentary Nights. 
 - 2015 - 2017 - From mid-2015 to early 2017 I was an independent researcher. Within this period some of the projects that I did were a research paper for the Japanese Institute of International Affairs (JIIA) on social protection for the informal economy in Malaysia, and a report on Freedom of Association and Assembly Online in Malaysia, commissioned by APC-IMPACT. On the side I was interested in issues of free trade agreements (TPP mainly), and jumpstarted a platform for generating discussions on the topic, [TPPDebate.org](https://tppdebate.org); I also represented the Asian Solidarity Economy Council in various forums on my interests of social and solidarity economy.  
 - 2017 - I worked for a year with a regional human rights NGO Innovation for Change - East Asia as their communication and information officer. In this year I did not do research, but gained experience in other areas such as building and implementing a communication strategy, project management, and coordination. One of the projects that I coordinated, which would be useful for the next year, was a series of digital security trainings for four Southeast Asian countries (Malaysia, Thailand, Philippines, and Indonesia) for human rights defenders and high risk populations. I also gained a lot of regional civil society friends, which was really nice :)  
 - 2018 - In 2018 I went back into being independent - aside from small projects here and there on civic tech and environmental policy, one of the main things I did in 2018 was to lecture part time in Monash University on the course of *Global Digital Media: International and Transnational Communication* in their Master's course. I liked teaching but part time lecturing work is actually rather precarious (low pay work and benefits that do not reflect the amount of work) and I didn't want to do it for the long term. So I decided not to.
-- 2019 - In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. 
+- 2019 - present - In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. Within the project I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. Towards the end of 2019 and in the early 2020s, I worked with EngageMedia to produce some research on AI and Southeast Asia. I also got the International Research and Collaboration Award on Histories of AI from University of Cambridge, which partially funds a research project on the topic. 
 
-### My Publications
+You can find the specific research projects in the [Projects](/pages/projects/) section.
+
+---
+
+### My Published Works
+**Non-academic outputs**
+- On Covid-19
+	- 21/3/2020: What good can come out of the coronavirus? ([link](https://www.apc.org/en/blog/what-good-can-come-out-coronavirus)) 
+- On AI and Human Rights in Southeast Asia
+	- 24/12/2019: Human Rights Concerns on Artificial Intelligence in Southeast Asia: An Overview ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/)) 
+	- 12/2/2020: Can’t live with it, can’t live without it? AI impacts on economic, social, and cultural rights ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/))
+	- 4/3/2020: AI as a weapon against civil and political rights ([link](https://coconet.social/2020/ai-weapon-civil-political-rights/))
+
+**Academic papers**
 
 I'm adding the files for download that I can - unfortunately some of the older papers are archived somewhere in some hard drive and I haven't mustered the motivation to go and locate them.  
 
@@ -45,6 +67,3 @@ Part of my work as a researcher is to write research proposals when I'm bidding 
 	- Business-as-usual or Building Back Better? Post-disaster recovery of local economies in Japan and Malaysia ([full proposal](/documents/research-ideas/2018-postdisasterrecoveryoflocaleconomies.pdf))
 - 2017 
 	- Civil society participation in the implementation of SDGs in Asia: A comparison of policy networks in Japan, Malaysia, and Timor Leste ([full proposal](/documents/research-ideas/2017-civilsocietyparticipationinsdgs.pdf))
-
-### My CV
-Coming soon
