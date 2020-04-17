@@ -2,7 +2,7 @@
 title: Day 29 - Maybe this is boredom.
 metaDesc: 
 socialImage: 
-date: '2020-04-13'
+date: '2020-04-15'
 tags:
   - blog
   - general
