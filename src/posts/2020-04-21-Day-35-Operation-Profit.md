@@ -33,4 +33,4 @@ Otherwise I'm still plotting on the new research project that I'm building and i
 
 Harvested some leaves from my henna tree, which I will use to dye my hair tomorrow. For many months I had been lazy and using store-bought henna powder, which is simple because you just stir in the powder without having to harvest and blend the leaves, and it doesn't leave bits of leaf residue in your hair after the dyeing. But in the spirit of being self-sufficient I am going to use my homegrown leaves this time. 
 
-Also very tempted to buy microgreens and keep some to grow - Operation Seed Growing didn't yield anything and I was quite disappointed. It seems a natural progression to now transition to Operation Get Sprouts And Grow Them. Then Operation Set Up Competing Microgreen Company. The Operation Profit. 
+Also very tempted to buy microgreens and keep some to grow - Operation Seed Growing didn't yield anything and I was quite disappointed. It seems a natural progression to now transition to Operation Get Sprouts And Grow Them. Then Operation Set Up Competing Microgreen Company. Then Operation Profit. 
