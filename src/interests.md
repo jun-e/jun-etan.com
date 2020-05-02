@@ -1,5 +1,6 @@
 ---
 title: Interests
+layout: 'layouts/page.njk'
 ---
 
 Here I outline some of my general interests, which tend to shift around a bit, but are currently centred on the following:    

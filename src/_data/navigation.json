@@ -7,22 +7,22 @@
     },
     {
       "text": "Research",
-      "url": "/pages/research",
+      "url": "/research",
       "external": false
     },
     {
       "text": "Projects",
-      "url": "/pages/projects",
+      "url": "/projects",
       "external": false
     },
     {
       "text": "Resources",
-      "url": "/pages/resources",
+      "url": "/resources",
       "external": false
     },
     {
       "text": "Interests",
-      "url": "/pages/interests",
+      "url": "/interests",
       "external": false
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "text": "About",
-      "url": "/pages/about",
+      "url": "/about",
       "external": false
     }
   ]

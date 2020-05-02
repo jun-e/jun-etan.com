@@ -1,3 +1,24 @@
 [build]
   command = "npm run production"
   publish = "dist"
+
+[[redirects]]
+  from = "/pages/about"
+  to = "/about"
+
+[[redirects]]
+  from = "/pages/interests"
+  to = "/interests"
+
+[[redirects]]
+  from = "/pages/research"
+  to = "/research"
+
+[[redirects]]
+  from = "/pages/resources"
+  to = "/resources"
+
+[[redirects]]
+  from = "/pages/projects"
+  to = "/projects"
+  

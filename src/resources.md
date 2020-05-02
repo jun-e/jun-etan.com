@@ -1,5 +1,6 @@
 ---
 title: Resources
+layout: 'layouts/page.njk'
 ---
 
 In this page you'll find some of my writings, presentations, and other outputs that have been published online. See the [Research](/pages/research/) and [Projects](/pages/projects/) pages for more context - some of these links have been given there, but I thought it would be useful to have them in one page. 

@@ -1,5 +1,6 @@
 ---
 title: Research
+layout: 'layouts/page.njk'
 ---
 
 *Last updated: April 2020*
