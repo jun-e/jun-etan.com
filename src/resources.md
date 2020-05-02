@@ -3,11 +3,11 @@ title: Resources
 layout: 'layouts/page.njk'
 ---
 
-In this page you'll find some of my writings, presentations, and other outputs that have been published online. See the [Research](/pages/research/) and [Projects](/pages/projects/) pages for more context - some of these links have been given there, but I thought it would be useful to have them in one page. 
-- [Shorter articles](/pages/resources/#heading-shorter-articles)
-- [Academic publications](/pages/resources/#heading-academic-publications)
-- [Lectures/presentations](/pages/resources/#heading-lecturespresentations)
-- [Other media](/pages/resources/#heading-other-media)
+In this page you'll find some of my writings, presentations, and other outputs that have been published online. See the [Research](/research/) and [Projects](/projects/) pages for more context - some of these links have been given there, but I thought it would be useful to have them in one page. 
+- [Shorter articles](/resources/#heading-shorter-articles)
+- [Academic publications](/resources/#heading-academic-publications)
+- [Lectures/presentations](/resources/#heading-lecturespresentations)
+- [Other media](/resources/#heading-other-media)
 
 ---
 
@@ -20,7 +20,7 @@ In this page you'll find some of my writings, presentations, and other outputs t
 ---
 
 ### Academic publications
-I've only included the publications that you can download. For a complete list of the papers that I've written head over to the [Research](/pages/research) page.  
+I've only included the publications that you can download. For a complete list of the papers that I've written head over to the [Research](/research) page.  
 
 - Tan, J.-E. (2019). "Digital Rights in Southeast Asia: Conceptual Framework and Movement Building". In Y.H. Khoo & D. Simanjundtak  (Eds.), *Exploring the Nexus between Technologies and Human Rights: Opportunities and Challenges for Southeast Asia*. Bangkok: SHAPE-SEA ([Download](/documents/Exploring-the-Nexus-Between-Technologies-and-Human-Rights.pdf))
 - Tan, J.-E. (2016). *Social and Solidarity Economy for Sustainable Development in Malaysia: Concepts, Contexts and Case Studies*. (UKM Ethnic Studies Paper Series No. 51, September 2016). Bangi: Universiti Kebangsaan Malaysia ([Download](/documents/SSEinMalaysia.pdf))

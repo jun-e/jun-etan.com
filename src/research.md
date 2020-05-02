@@ -13,7 +13,7 @@ Most of my work has been within civil society even though I've lectured part tim
 
 ---
 
-In this section you will find some information about my research interests, a list of published works, and some research ideas that I've proposed in the past. More details on specific projects can be found in the [Projects](/pages/projects/) section. Just jump to the sub-section that you are interested in:
+In this section you will find some information about my research interests, a list of published works, and some research ideas that I've proposed in the past. More details on specific projects can be found in the [Projects](/projects/) section. Just jump to the sub-section that you are interested in:
 - [An overview of my research interests](#heading-my-research-interests) and my research path so far
 - [A list of my published work](#heading-my-publications), including articles and academic papers
 - Some [research ideas that I've proposed](#heading-research-ideas) or played with, but have not been able to execute (yet!) 
@@ -32,7 +32,7 @@ Some elaborations to give more context:
 - 2018 - In 2018 I went back into being independent - aside from small projects here and there on civic tech and environmental policy, one of the main things I did in 2018 was to lecture part time in Monash University on the course of *Global Digital Media: International and Transnational Communication* in their Master's course. I liked teaching but part time lecturing work is actually rather precarious (low pay work and benefits that do not reflect the amount of work) and I didn't want to do it for the long term. So I decided not to.
 - 2019 - present - In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. Within the project I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. Towards the end of 2019 and in the early 2020s, I worked with EngageMedia to produce some research on AI and Southeast Asia. I also got the International Research and Collaboration Award on Histories of AI from University of Cambridge, which partially funds a research project on the topic. 
 
-You can find the specific research projects in the [Projects](/pages/projects/) section.
+You can find the specific research projects in the [Projects](/projects/) section.
 
 ---
 
