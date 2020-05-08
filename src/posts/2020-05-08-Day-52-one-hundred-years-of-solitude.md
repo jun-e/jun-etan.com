@@ -1,5 +1,5 @@
 ---
-title: Day 52 - Reading rampage
+title: Day 52 - One hundred years of solitude
 metaDesc: 
 socialImage: 
 date: '2020-05-08'
@@ -8,7 +8,7 @@ tags:
   - general
   - covid-19
   - reading
-  - gardening
+  
 ---
 
 Friday.
@@ -25,11 +25,15 @@ I know this sounds kind of disrespectful to the other two books, but hey it's Ga
 
 So I started to read it, with trepidation, but the first few pages went down as smooth as good wine. And the next 100 pages, half of the book, three quarters.... up till the last page. 
 
-I think that Leo and the TED-Ed video gave me an idea of what to expect, which made the book much easier to read and enjoy. The prose itself is not difficult, but the brain does drift around sometimes trying to figure out which character is which, or what incident is real and what isn't. The novel has a dream-like quality, and most of the stories of the characters happen within a very small setting, mostly in the ancestral house of Buendia. The village of Macondo expands and contracts in the imagination, as it goes through humble beginnings, prosperity, and utter decreptitude. 
+I think that Leo and the TED-Ed video gave me an idea of what to expect, which made the book much easier to read and enjoy. The prose itself is not difficult, but the brain does drift around sometimes trying to figure out which character is which, or what incident is real and what isn't. The novel has a dream-like quality, and most of the stories of the characters happen within a very small setting, mostly in the ancestral house of Buendia. The village of Macondo expands and contracts in the visual imagination, as it goes through humble beginnings, prosperity, and utter decreptitude. 
 
-And the characters. What characters! The matriarchal anchors, Ursula and Fernanda, are like pillars of support when you're disoriented by buzzing activities and love lives of the Aurelianos, Jose Arcadios, Amarantas, and Remedios. There's also the room of Melquiades, which is timeless and pristine, which provides refuge not only to an Aureliano or Jose Arcadio at any point (in seven generations) but also to my mind when it tires of keeping track of the disintegrating surroundings of the Buendia house. 
+And the characters. What characters! The matriarchal anchors, Ursula and Fernanda, are like unwavering pillars of rest when you're disoriented by buzzing activities and love lives of the Aurelianos, Jose Arcadios, Amarantas, and Remedios. There's also the room of Melquiades, which is timeless and pristine, which provides refuge not only to an Aureliano or Jose Arcadio at any point (in seven generations) but also to my mind when it tires of keeping track of the disintegrating surroundings of the Buendia house. 
 
 And then of course there's the downward spiral that is mentioned by the video. It is accompanied by a real tinge of nostalgia, about halfway through the book, when the older characters start fading out, either through dying or through senility. The younger generations go through similar cycles of naivete, incestuous relationships (which occurs in extraodinary frequency, and are so frankly discussed that I found it refreshing), and eventual bitterness and death. 
 
-I can totally see all of this happening in a migrant family, such as mine - a third or fourth generation Chinese Malaysian - every generation self-absorbed and unable to see beyond their own noses, going through similar life events as our parents and forefathers, yet feeling so utterly alone in our trials and tribulations. We did not invent exploration, we did not invent revolutions, we did not invent heartbreak. But it feels like we did. 
+I can totally see all of this happening in a migrant family, such as mine - third or fourth generation Chinese Malaysian - every generation self-absorbed and unable to see beyond their own noses, going through similar life events as our parents and forefathers, yet feeling so utterly alone in our trials and tribulations. We did not invent exploration, we did not invent revolutions, we did not invent heartbreak. But it feels like we did. 
+
+Of course there's also the feeling of inevitable death. Even if some characters in the book live more than 100 years, they all eventually die. Strong as the matriarchs are, time marches on mercilessly, wearing everyone down to nothingness. Some die before they die, or perhaps they catch on the meaninglessness of life early enough - and while their lives away making little gold fishes and melting them down and repeating the process, for instance. 
+
+And one hundred years later, does anything matter? 
 
