@@ -7,6 +7,9 @@ tags:
   - blog
   - general
   - covid-19
+  - solar-cooker
+  - random_interests
+  - gardening
 ---
 
 Monday.

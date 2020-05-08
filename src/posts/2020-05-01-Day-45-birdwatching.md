@@ -7,6 +7,8 @@ tags:
   - blog
   - general
   - covid-19
+  - bird_watching
+  - random_interests
 ---
 
 Friday.

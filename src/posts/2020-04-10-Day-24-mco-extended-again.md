@@ -7,6 +7,9 @@ tags:
   - blog
   - general
   - covid-19
+  - art
+  - gardening
+
 ---
 
 Friday. 
