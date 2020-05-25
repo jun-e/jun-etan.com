@@ -28,7 +28,7 @@ The main languages that I have been learning more or less consistently are Japan
 ### Music
 I’ve a bit of a complicated relationship with music. Thanks to an early childhood of learning the piano, I’ve got a pretty good ear and sense for music but it also took me some time as an adult to discard the negative association with regimented music practice from young. At the moment I’m learning the ukulele, the guitar, and may pick up piano again when a keyboard comes my way. 
 
-[Blog posts that are tagged under "music"](/tags/music) (nothing here yet)
+[Blog posts that are tagged under "music"](/tags/music)
 
 ### Dancing
 Haha. Just kidding. I'm wooden as fuck. 
