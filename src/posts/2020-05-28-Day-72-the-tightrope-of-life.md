@@ -1,5 +1,5 @@
 ---
-title: Day 72 - 
+title: Day 72 - The tightrope of life.
 metaDesc: 
 socialImage:  
 date: '2020-05-28'
@@ -21,7 +21,6 @@ The garden keeps me strong when I get overwhelmed. I saw a bunch of wilting kang
 
 I spend a lot of time staring at my plants these days and touching the aromatics and smelling my fingers. For the kangkung I love the shape of the leaves and the fact that a grown leaf is the same length as my hand, from the root of my palm to the tip of my middle finger. My sunflowers have lush green leaves as well and buds are starting to form. My heart leans hard on the tender buds, pending on the day when their petals would open. In the meantime I'm trying to plant more and plant better, so that I have more things to lean on. 
 
-The daily 10cm growth of the bittergourd. The day when I can make pesto out of the many varieties of basil plants that I've somehow accumulated. That one tiny unfurled tomato leaf contributing to the three pairs of true leaves that I'm waiting for so that I can transplant it to a bigger pot. 
+The daily 10cm growth of the bittergourd plant, almost reaching to the top of the trellis now. The day when I can make pesto out of the many varieties of basil plants that I've somehow accumulated - they're all still babies now. That one tiny unfurled tomato leaf contributing to the three pairs of true leaves that I'm waiting for so that I can transplant it to a bigger pot. 
 
-Looking forward. Not downward. 
-
+So much to look forward to. Trained eyes. Ahead. 
