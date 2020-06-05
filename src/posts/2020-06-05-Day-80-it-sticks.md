@@ -1,8 +1,8 @@
 ---
-title: Day 78 - It sticks.
+title: Day 80 - It sticks.
 metaDesc: 
 socialImage:  
-date: '2020-06-03'
+date: '2020-06-05'
 tags:
   - blog
   - general
