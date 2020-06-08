@@ -15,7 +15,9 @@ tags:
 
 Monday. 
  
-We're moving towards a new phase of MCO, this time called Recovery Movement Control Order, and it's until end of August. Most restrictions are off as far as I can see, apart from indoor sports and probably some services that would involve crowds. Interstate travel is allowed but not overseas travel. So it will be about 3 months, or 12 weeks, or 84 days, as of tomorrow. 
+We're moving towards a new phase of MCO, this time called Recovery Movement Control Order, and it's until end of August. Most restrictions are off as far as I can see, apart from indoor sports and probably some services that would involve crowds. Interstate travel is allowed but not overseas travel. 
+
+So by tomorrow, the lockdown, including the strict initial MCO and the looser subsequent conditional MCO, will have lasted for about 3 months, or 12 weeks, or 84 days. 
 
 During these 12 weeks, much has happened. Most political happenings I've alluded to, so I won't sum it up here, but I thought that it would be useful to have a summary of things that I've done so far during lockdown time to have an overview in one place. Thus, the following: 
 
