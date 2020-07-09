@@ -1,0 +1,36 @@
+---
+title: Deleting my CouchSurfing Profile
+metaDesc: 
+socialImage:  
+date: '2020-07-09'
+tags:
+  - blog
+  - general
+  - couchsurfing
+  
+---
+
+I've just written to the Support and Privacy teams of CouchSurfing.com to give me a copy of my data, and to delete my profile. 
+
+This was a difficult but easy decision. 
+
+Difficult, because CS was a very important part of my life. I studied [CouchSurfing as a case study for trust-building online for my PhD](https://jun-etan.com/documents/Building-Trust-in-e2f-SNSs-Case-Study-of-CS-Tan-Jun-E.pdf), and therefore looked at it very closely for a few years of my life. I surfed and hosted actively, and went to community events and met lifelong friends through it (notably - I met my husband Leo and my best friend Eva in February 2012 through CS, in the same week. Best week ever.). I had more than 100 references and about 15 vouches on the platform and I liked my profile very much because it represented a carefree version of me in my twenties who used to hitchhike around and do crazy things like going to the Burning Man or dumpster dive or, well, stay over at strangers' homes. 
+
+Easy, because CS has been dead to me for some time now. Having followed [its trajectory from volunteer-based to sellout](https://brenontheroad.com/the-end-of-couchsurfing/), this had been a flame that slowly progressed from fiery outrage to vague indifference. Life happened. We still hosted a bit in the past few years that we've been established in KL, mostly through Leo's profile because he's got a much more stringent filter (mine used to be: you need a place to crash? Come on in). However, it was also gradually apparent that we were not getting much out of the hosting experiences (given the string of mostly uninspiring guests who I don't even remember now. And we noticed that the algorithms kept sending us the same types of people), but every time we hosted it took a significant chunk of my energy which was not worthwhile. I/We did surf a bit but even that tapered off because of the same reason. I didn't have the same energy to invest anymore. 
+
+I thought that my profile and contacts would just sit in a dusty database somewhere out there and that would be it. But, given the recent developments, it turns out that this was not to be. 
+
+To give a very brief summary - CouchSurfing.com now extorts its members to pay a fee to access their profiles. You don't get *any* access if you don't pay up. The fee is nominal, at RM8/month or RM50/year. What really PISSES ME OFF is that you don't get an option. If you can't afford it, fuck you. If you don't have a credit card, fuck you. If you don't want to pay, fuck you. Your profile, your contacts, your previous messages, are all behind this paywall now. They are being held hostage while you hold a philosophical debate in your head about principles and what your data is worth to you. RM8? Or a sea of self-loathing as you yield to corporate blackmail that you're not even sure is legal? 
+
+As I scrolled through [this self-righteous blog post by CouchSurfing](https://blog.couchsurfing.com/we-hear-you/) explaining why they had to do it - scrolled through it quickly because many sentences triggered outbursts of rage (lies, hypocrisy, disgusting entitlement) - it was clear what I had to do. They offer to give you a copy of your data and delete your profile. I wrote a one-liner to the emails of Support and Privacy, to request them to do just that. And then I had to write about my emotions and thoughts and where better to do it than on my own website, where I own my own data. 
+
+There are a few thoughts in my mind now in relation with CS's extortion of members. 
+- Those with their data on the website should rather request a copy of it ASAP because if CS dies (closes down), and it will, your data will be lost forever. I'm sure we've experienced at some point some website ceasing to exist and treasured data and interactions are gone. Examples that come to my mind are a travel blog that I used to use (I don't even remember the name of the site now), which closed down , and a popular microblogging platform called Dayre that was popular a few years ago until they shuttered. In both cases users were notified so that they could react and request data downloads. With CS and what they're doing now, there's no guarantee that they will give a notice like that. And with how they're treating their users, I don't see them lasting for long. So, whether you want to keep your account or not, it's probably prudent to get a copy of that data. 
+- I am deleting my profile because I don't see myself using it ever again. The bad taste left by CS's recent move will never dissipate, and I say that as someone who kept her profile up for years despite multiple transgressions of the CS management, *just in case I would need it*. Well, no longer. I have profiles on [BeWelcome](https://www.bewelcome.org) and [Trustroots](https://www.trustroots.org), and I have had them for years. I can always use them if I decide to host or surf again, without this ugly feeling akin to getting back together with an abusive ex just because one is lonely. Which brings me to the next point. 
+- I think that it is a good thing if CS dies. People lament the killing of the CouchSurfing Spirit, which I get, and it is indeed a heartbreaking thing to see a community die out of moneymaking and mismanagement. (Just a note here: Moneymaking is ok. We all need to eat. But profiteering, and doing it so badly that you kill your golden goose, is another matter.) However, I think that the CS Spirit exists *in spite of* the CouchSurfing platform. The website is already bad in terms of user experience, functionalities, and vibes. It is riddled with ads, and they keep trying new features that hamper instead of support the community. It is not the first time that they've posed restrictions on users in order to force them to pay up (after promising earlier on that users never need to pay to use the service). CS as we know it had been hobbling along for quite many years now. The CS spirit can manifest elsewhere if it leaves the toxic container known as CS. 
+
+We have always needed to connect with others, to travel and to understand other cultures. There were hospitality exchanges before CS, and there will be hospitality exchanges after CS. And more broadly, we will always find ways to be kind to others and to celebrate our collective humanness. It doesn't have to be done on CouchSurfing.com. It will take us some time to build that trust, but build it we will because it is something innate in us that needs to be expressed. 
+
+Still, for now, there is a lot of pain because CS's downfall also forces us to say goodbye to idealistic parts of ourselves. Faith in a beautiful thing is trampled upon and sunk into a cesspit some may call Reality. Growth is painful and ugly but hopefully we will learn a lesson out of this, and not lose the ability to believe again. 
+
+I'll leave you with [this comprehensive post](https://brenontheroad.com/the-end-of-couchsurfing/) that gives you more information. Good Thursday everybody!
