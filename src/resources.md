@@ -12,10 +12,17 @@ In this page you'll find some of my writings, presentations, and other outputs t
 ---
 
 ### Shorter articles
-- 21/3/2020: "What good can come out of the coronavirus?" ([link](https://www.apc.org/en/blog/what-good-can-come-out-coronavirus))
-- 24/12/2019: Human Rights Concerns on Artificial Intelligence in Southeast Asia: An Overview ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/)) 
-- 12/2/2020: Can’t live with it, can’t live without it? AI impacts on economic, social, and cultural rights ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/))
-- 4/3/2020: AI as a weapon against civil and political rights ([link](https://coconet.social/2020/ai-weapon-civil-political-rights/))
+- A critical view of AI ethics, a three-part series published by EngageMedia.org: 
+	- 10/8/2020: [Looking at the substance of ethical guidelines](https://engagemedia.org/2020/artificial-intelligence-ethical-guidelines/)
+	- 17/8/2020: [Problems in putting principles into practice](https://engagemedia.org/2020/artificial-intelligence-ethics-in-practice/)
+	- 31/8/2020: [Alternative ethical frameworks for AI](https://engagemedia.org/2020/artificial-intelligence-alternative-ethics/)
+- On Covid-19, published by the Association for Progressive Communication (APC)
+	- 21/3/2020: [What good can come out of the coronavirus?](https://www.apc.org/en/blog/what-good-can-come-out-coronavirus)
+- AI and Human Rights in Southeast Asia, a three-part series published in Coconet.Social:
+	- 24/12/2019: [Human Rights Concerns on Artificial Intelligence in Southeast Asia: An Overview](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/) 
+	- 12/2/2020: [Can’t live with it, can’t live without it? AI impacts on economic, social, and cultural rights](https://coconet.social/2020/ai-impacts-economic-social-cultural-rights/)
+	- 4/3/2020: [AI as a weapon against civil and political rights](https://coconet.social/2020/ai-weapon-civil-political-rights/)
+	- The series has been [translated into Thai](https://coconet.social/2020/artificial-intelligence-thai-translation/) by Teerada Na Jatturas, which I greatly appreciate
 
 ---
 
@@ -33,8 +40,10 @@ I've only included the publications that you can download. For a complete list o
 ### Lectures/Presentations
 I've started to use Slides.com for my slides, so you can check [my profile there](https://slides.com/jun-e/) for an updated list of presentations (or if you can't see them below for some reason). For the time being there are these two that are online:
 
-"The Impact of Artificial Intelligence on Human Rights: The Link with Data", April 2020, oresentation for the Digital Discourses online conference organised by Goethe Institut, Jakarta. There should be a 24-minute video recording that I will receive soon and I will update it here.  
-<iframe src="https://slides.com/jun-e/aihumanrightsdata/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+"The Impact of Artificial Intelligence on Human Rights: The Link with Data", April 2020, oresentation for the Digital Discourses online conference organised by Goethe Institut, Jakarta. Video recording of the lecture:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GcCXCMIrUFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[Slides can be accessed here](https://slides.com/jun-e/aihumanrightsdata/)
+
 
 "Digital Rights in the Time of Covid-19", April 2020, presentation for the Digital Youth Conference 2020, organised by International Youth United.
 <iframe src="https://slides.com/jun-e/digitalrightscovid19/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

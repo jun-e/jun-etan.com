@@ -30,7 +30,7 @@ Some elaborations to give more context:
 - 2015 - 2017 - From mid-2015 to early 2017 I was an independent researcher. Within this period some of the projects that I did were a research paper for the Japanese Institute of International Affairs (JIIA) on social protection for the informal economy in Malaysia, and a report on Freedom of Association and Assembly Online in Malaysia, commissioned by APC-IMPACT. On the side I was interested in issues of free trade agreements (TPP mainly), and jumpstarted a platform for generating discussions on the topic, [TPPDebate.org](https://tppdebate.org); I also represented the Asian Solidarity Economy Council in various forums on my interests of social and solidarity economy.  
 - 2017 - I worked for a year with a regional human rights NGO Innovation for Change - East Asia as their communication and information officer. In this year I did not do research, but gained experience in other areas such as building and implementing a communication strategy, project management, and coordination. One of the projects that I coordinated, which would be useful for the next year, was a series of digital security trainings for four Southeast Asian countries (Malaysia, Thailand, Philippines, and Indonesia) for human rights defenders and high risk populations. I also gained a lot of regional civil society friends, which was really nice :)  
 - 2018 - In 2018 I went back into being independent - aside from small projects here and there on civic tech and environmental policy, one of the main things I did in 2018 was to lecture part time in Monash University on the course of *Global Digital Media: International and Transnational Communication* in their Master's course. I liked teaching but part time lecturing work is actually rather precarious (low pay work and benefits that do not reflect the amount of work) and I didn't want to do it for the long term. So I decided not to.
-- 2019 - present - In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. Within the project I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. Towards the end of 2019 and in the early 2020s, I worked with EngageMedia to produce some research on AI and Southeast Asia. I also got the International Research and Collaboration Award on Histories of AI from University of Cambridge, which partially funds a research project on the topic. 
+- 2019 - present - In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. Within the project I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. Towards the end of 2019 and in 2020, I worked with EngageMedia to produce some research on AI and Southeast Asia. I also got the International Research and Collaboration Award on Histories of AI from University of Cambridge, which partially funds a research project on the topic. 
 
 You can find the specific research projects in the [Projects](/projects/) section.
 
@@ -38,12 +38,18 @@ You can find the specific research projects in the [Projects](/projects/) sectio
 
 ### My Published Works
 **Non-academic outputs**
-- On Covid-19
-	- 21/3/2020: What good can come out of the coronavirus? ([link](https://www.apc.org/en/blog/what-good-can-come-out-coronavirus)) 
-- On AI and Human Rights in Southeast Asia
-	- 24/12/2019: Human Rights Concerns on Artificial Intelligence in Southeast Asia: An Overview ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/)) 
-	- 12/2/2020: Can’t live with it, can’t live without it? AI impacts on economic, social, and cultural rights ([link](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/))
-	- 4/3/2020: AI as a weapon against civil and political rights ([link](https://coconet.social/2020/ai-weapon-civil-political-rights/))
+- A critical view of AI ethics, a three-part series published by EngageMedia.org: 
+	- 10/8/2020: [Looking at the substance of ethical guidelines](https://engagemedia.org/2020/artificial-intelligence-ethical-guidelines/)
+	- 17/8/2020: [Problems in putting principles into practice](https://engagemedia.org/2020/artificial-intelligence-ethics-in-practice/)
+	- 31/8/2020: [Alternative ethical frameworks for AI](https://engagemedia.org/2020/artificial-intelligence-alternative-ethics/)
+- On Covid-19, published by the Association for Progressive Communication (APC)
+	- 21/3/2020: [What good can come out of the coronavirus?](https://www.apc.org/en/blog/what-good-can-come-out-coronavirus)
+- AI and Human Rights in Southeast Asia, a three-part series published in Coconet.Social:
+	- 24/12/2019: [Human Rights Concerns on Artificial Intelligence in Southeast Asia: An Overview](https://coconet.social/2019/human-rights-artificial-intelligence-southeast-asia/) 
+	- 12/2/2020: [Can’t live with it, can’t live without it? AI impacts on economic, social, and cultural rights](https://coconet.social/2020/ai-impacts-economic-social-cultural-rights/)
+	- 4/3/2020: [AI as a weapon against civil and political rights](https://coconet.social/2020/ai-weapon-civil-political-rights/)
+	- The series has been [translated into Thai](https://coconet.social/2020/artificial-intelligence-thai-translation/) by Teerada Na Jatturas, which I greatly appreciate
+
 
 **Academic papers**
 
