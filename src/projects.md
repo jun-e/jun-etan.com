@@ -9,9 +9,9 @@ layout: 'layouts/page.njk'
 Grouped under themes, click to find out more: 
 - Digital rights and communication
   - Discourses on AI safety in Southeast Asia: Bridging the gap between civil society and the tech community (International Research and Collaboration Award on the Histories of AI, by University of Cambridge)
-  - Artificial intelligence and human rights in Southeast Asia (Collaboration with EngageMedia) 
-  - Digital rights movement in Southeast Asia: Conceptual framework and movement building (Commissioned research paper by SHAPE-SEA)
-  - Freedom of assembly and association online in Malaysia (Commissioned by APC-IMPACT)
+  - [Artificial intelligence and human rights in Southeast Asia](/projects/ai-sea-human-rights) (Collaboration with EngageMedia) 
+  - [Digital rights movement in Southeast Asia: Conceptual framework and movement building](/projects/digital-rights-sea) (Commissioned research paper by SHAPE-SEA)
+  - [Freedom of assembly and association online in Malaysia](/projects/foaa-online-malaysia) (Commissioned by Empower Malaysia, as part of the APC-IMPACT project)
   - Blogs and democratisation in Malaysia: a new civil society in the making?
   - Trust-building on electronic-to-face social network sites: Case study of Couchsurfing.com (This was my PhD thesis)
 
