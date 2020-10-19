@@ -6,8 +6,9 @@ layout: 'layouts/page.njk'
 ### About the project
 - Title: Artificial Intelligence and Human Rights in Southeast Asia
 - Collaboration with: [EngageMedia](https://engagemedia.org/)
+- Year: 2019/2020
 - Nature of project: This was two separate contracts with EngageMedia to produce research on the topic. The first phase involved 3 articles and a video interview, and the second phase involved a study, "Artificial Intelligence (AI) Governance in Southeast Asia: Challenges in the Region and Possible Paths Forward" and a series of other outputs. 
-- Date: 2019/2020
+
 
 ### Outputs of the project
 - Phase Two

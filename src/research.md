@@ -3,7 +3,7 @@ title: Research
 layout: 'layouts/page.njk'
 ---
 
-*Last updated: April 2020*
+*Last updated: September 2020*
 
 I'm a bit of an academic mutt: I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
 

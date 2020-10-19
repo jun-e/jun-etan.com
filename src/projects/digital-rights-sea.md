@@ -6,7 +6,7 @@ layout: 'layouts/page.njk'
 ### About the project
 - Title: Digital Rights in Southeast Asia: Conceptual Framework and Movement Building
 - Nature of project: Book chapter
-- Published: 2019
+- Year: 2019
 - Commissioned by: SHAPE-SEA
 - Download: [Fulltext here](/documents/Digital-Rights-in-Southeast-Asia-Conceptual-Framework-and-Movement-Building.pdf); [A PPT of the gist here](/documents/Digital-rights-paper-gist.pdf)
 
