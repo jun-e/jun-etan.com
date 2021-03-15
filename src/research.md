@@ -3,7 +3,7 @@ title: Research
 layout: 'layouts/page.njk'
 ---
 
-*Last updated: September 2020*
+*Last updated: March 2021*
 
 I'm a bit of an academic mutt: I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
 
@@ -38,6 +38,8 @@ You can find the specific research projects in the [Projects](/projects/) sectio
 
 ### My Published Works
 **Non-academic outputs**
+- An essay published within IT for Change's digital compendium of *A Digital New Deal: Visions of Justice in a Post-Covid World* 
+	- 1/11/2020: [Imagining the AI We Want: Towards a New AI Constitutionalism](https://itforchange.net/digital-new-deal/2020/11/01/imagining-the-ai-we-want-towards-ai-constitutionalism/)
 - A critical view of AI ethics, a three-part series published by EngageMedia.org: 
 	- 10/8/2020: [Looking at the substance of ethical guidelines](https://engagemedia.org/2020/artificial-intelligence-ethical-guidelines/)
 	- 17/8/2020: [Problems in putting principles into practice](https://engagemedia.org/2020/artificial-intelligence-ethics-in-practice/)
