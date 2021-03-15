@@ -37,7 +37,7 @@ You can find the specific research projects in the [Projects](/projects/) sectio
 ---
 
 ### My Published Works
-**Non-academic outputs**
+**Articles**
 - An essay published within IT for Change's digital compendium of *A Digital New Deal: Visions of Justice in a Post-Covid World* 
 	- 1/11/2020: [Imagining the AI We Want: Towards a New AI Constitutionalism](https://itforchange.net/digital-new-deal/2020/11/01/imagining-the-ai-we-want-towards-ai-constitutionalism/)
 - A critical view of AI ethics, a three-part series published by EngageMedia.org: 
