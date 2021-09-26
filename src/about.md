@@ -3,7 +3,7 @@ title: About me
 layout: 'layouts/contact.njk'
 ---
 
-Researcher based in Kuala Lumpur, Malaysia. Lifelong learner, flailing multitasker, recovering procrastinator
+Researcher based in Kuala Lumpur, Malaysia. Lifelong learner, flailing multitasker, recovering procrastinator.
 
 Do feel free to browse the sections of my website while I try to figure out what to write here. 
 
