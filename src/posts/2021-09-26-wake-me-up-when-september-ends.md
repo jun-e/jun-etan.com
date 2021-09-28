@@ -25,7 +25,7 @@ As I type this I am recovering from a minor surgery (even though, as I've discov
 
 Since mid-August I've been working with WWF-Malaysia on a short term project on net zero pathways for Malaysia, re-entering the environmental field after leaving it for some time. I can tell that after all these years the tide has finally turned. Oil and gas is now considered a high risk sector to invest in. Carbon pricing is no longer a crazy fringe idea. The private sector is finally participating in the conversation, in a language that they know -  of investors, consumers, import/export tax.  
 
-It is still painfully obvious that we are running out of time, and things aren't changing quick enough. But working in the field again no longer fills me with the same levels of despair and angst. 
+It is still painfully obvious that we are running out of time, and things aren't changing quickly enough. But working in the field again no longer fills me with the same levels of despair and angst. 
 
 ---
 
