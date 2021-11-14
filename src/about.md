@@ -9,4 +9,4 @@ Do feel free to browse the sections of my website while I try to figure out what
 
 I also have an Instagram profile where I post the art that I make, whether it is sketches, paintings, or Lego installations - follow me [@juneysketches](https://instagram.com/juneysketches).  
 
-Get in touch through email: june[dot]tan[at]protonmail[dot]com, or fill the form below.
+Get in touch through email: june[dot]tan[at]protonmail[dot]com, or fill the form below
