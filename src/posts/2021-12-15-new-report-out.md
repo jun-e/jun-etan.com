@@ -11,7 +11,7 @@ tags:
   
 --- 
 
-A report that I wrote in partnership with EngageMedia, "Governance of Artificial Intelligence in Southeast Asia", is published :) It can be downloaded [here](/documents/Engage_Report-Governance-of-Artificial-Intelligence-AI-in-Southeast-Asia_121021), or in its [official home on EngageMedia's website](https://engagemedia.org/projects/ai-research/), where you will also find a video summary. 
+A report that I wrote in partnership with EngageMedia, "Governance of Artificial Intelligence in Southeast Asia", is published :) It can be downloaded [here](/documents/Engage_Report-Governance-of-Artificial-Intelligence-AI-in-Southeast-Asia_121021.pdf), or in its [official home on EngageMedia's website](https://engagemedia.org/projects/ai-research/), where you will also find a video summary. 
 
 <div style="text-align: center;">
 
