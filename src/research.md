@@ -3,15 +3,17 @@ title: Research
 layout: 'layouts/page.njk'
 ---
 
-*Last updated: Feb 2022*
+*Last updated: Aug 2022*
+I'm currently a Senior Research Associate with Khazanah Research Institute (KRI), focusing mainly on digital and tech policy in the context of Malaysia and Southeast Asia. 
 
 I'm a bit of an academic mutt: I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
 
-Upon receiving my doctorate, I returned to Malaysia and worked in a think tank, Institute of Strategic and International Studies (ISIS) Malaysia, in its department that worked on sustainable development. Since leaving the think tank I have been working mostly freelance on commissioned research projects, except for a year (2017) when I worked on managing the communications for a regional NGO, Innovation for Change - East Asia. 
+Upon receiving my doctorate, I returned to Malaysia and worked in a think tank, Institute of Strategic and International Studies (ISIS) Malaysia, in its department that worked on sustainable development. After leaving ISIS Malaysia, I was working mostly freelance on commissioned research projects, except for some short stints when I worked on managing the communications for a regional NGO, Innovation for Change - East Asia (2017) and managing a project for WWF-Malaysia (2021). 
 
-Most of my work has been within civil society even though I've lectured part time in Monash University, Malaysia. In 2020 I received an [International Research and Collaboration Award](https://www.hps.cam.ac.uk/about/research-projects/histories-of-ai/fellowships-awards/tan) from the University of Cambridge, under their Department of History and Philosophy of Science, for their Mellon Sawyer Seminar entitled 'Histories of AI: A Genealogy of Power'. The fellowship ran from May 2020 to December 2021.
+Apart from my research and advocacy work within civil society and policy think tanks, I've lectured part time in Monash University, Malaysia. In 2020 I received an [International Research and Collaboration Award](https://www.hps.cam.ac.uk/about/research-projects/histories-of-ai/fellowships-awards/tan) from the University of Cambridge, under their Department of History and Philosophy of Science, for their Mellon Sawyer Seminar entitled 'Histories of AI: A Genealogy of Power'. The fellowship ran from May 2020 to December 2021.
 
 Here are some of the organisations that I have worked with, in my capacity as an independent researcher/contractor/writer of commissioned papers or articles:
+- Oxford Internet Institute
 - WWF Malaysia
 - Konrad Adenauer Stiftung
 - Digital Futures Lab/Tandem Research
@@ -45,7 +47,7 @@ Some elaborations to give more context:
 - 2018: In 2018 I went back into being independent - aside from small projects here and there on civic tech and environmental policy, one of the main things I did in 2018 was to lecture part time in Monash University on the course of *Global Digital Media: International and Transnational Communication* in their Master's course. I liked teaching but part time lecturing work is actually rather precarious (low pay work and benefits that do not reflect the amount of work) and I didn't want to do it for the long term. So I decided not to.
 - 2019-2021: In 2019 I started to work on digital rights in earnest, while doing some other small projects to pay the bills. I conducted a research project under SHAPE-SEA, studying the digital rights movement in Southeast Asia. Within the project I built a conceptual framework of what digital rights is, and looked at the challenges faced by the movement, plus recommendations from digital rights activists on how to improve the movement. Towards the end of 2019 and in 2020, I worked with EngageMedia to produce some research on AI and Southeast Asia. I also got the International Research and Collaboration Award on Histories of AI from University of Cambridge. 
 - 2021: Mid-way through 2021, I was invited by WWF Malaysia to join their Net Zero Study team as a project manager for a study jointly conducted by WWF-MY and Boston Consulting Group (BCG). A report, [*Securing Our Future: Net Zero Pathways for Malaysia*](https://www.bcg.com/en-sea/net-zero-pathways-malaysia) was produced as a result. This experience was enriching not only from a skill sets point of view (project management and coordination) - I also gained significant updates on domain knowledge of climate change politics and Malaysia's policy directions towards decarbonisation. At the end of the year, my report on AI governance in Southeast Asia was published by EngageMedia. 
-- 2022 - Presently I am back into the field of digital rights and AI governance. An ongoing project is Stories in/around AI, a collaboration between myself and researchers kat azali, Au Yung, and Srujana Katta to collect stories in Southeast Asia with regards to AI and work. 
+- 2022 - Presently I am back into the field of digital rights and AI governance. An ongoing project is Stories in/around AI, a collaboration between myself and researchers kat azali, Au Yung, and Srujana Katta to collect stories in Southeast Asia with regards to AI and work. Mid-2022, I joined Khazanah Research Institute full-time as a Senior Research Associate. 
 
 You can find the specific research projects in the [Projects](/projects/) section.
 
@@ -75,7 +77,7 @@ You can find the specific research projects in the [Projects](/projects/) sectio
 
 I'm adding the files for download that I can - unfortunately some of the older papers are archived somewhere in some hard drive and I haven't mustered the motivation to go and locate them.  
 
-1. Tan, J.-E. (Forthcoming). To What Extent Does Malaysia’s National Fourth Industrial Revolution (4IR) Policy Address AI Security Risks? In U. Aneja & A. Natarajan (Eds.), *Governing AI: Law, Policy and Institutions in Asia*. Tandem Research & Konrad Adenauer Stiftung.（Download will be made available when it is published)
+1. Tan, J.-E. (2022). To What Extent Does Malaysia’s National Fourth Industrial Revolution (4IR) Policy Address AI Security Risks? In U. Aneja (Ed.), *Reframing AI Governance: Perspectives from Asia*. Digital Futures Lab & Konrad Adenauer Stiftung.（[Download](https://assets.website-files.com/62c21546bfcfcd456b59ec8a/62df3bbcd1d3f82534a706f1_%E2%80%A2Report_AI_in_Asia.pdf))
 2. Tan, J.-E. (2021). *Governance of Artificial Intelligence (AI) in Southeast Asia*. EngageMedia. https://engagemedia.org/wp-content/uploads/2021/12/Engage_Report-Governance-of-Artificial-Intelligence-AI-in-Southeast-Asia_12202021.pdf ([Download](/documents/Engage_Report-Governance-of-Artificial-Intelligence-AI-in-Southeast-Asia_121021.pdf))
 3. Tan, J.-E. (2019). "Digital Rights in Southeast Asia: Conceptual Framework and Movement Building". In Y.H. Khoo & D. Simanjundtak  (Eds.), *Exploring the Nexus between Technologies and Human Rights: Opportunities and Challenges for Southeast Asia*. Bangkok: SHAPE-SEA ([Download](/documents/Digital-Rights-in-Southeast-Asia-Conceptual-Framework-and-Movement-Building.pdf))
 4. Tan, J.-E. (2016). *Social and Solidarity Economy for Sustainable Development in Malaysia: Concepts, Contexts and Case Studies*. (UKM Ethnic Studies Paper Series No. 51, September 2016). Bangi: Universiti Kebangsaan Malaysia ([Download](/documents/SSEinMalaysia.pdf))
@@ -93,7 +95,7 @@ Transparency)
   - 2022 - Feminist Technology Playground (by Association for Progressive Communications, Women's Rights Programme, and Numun Fund)
   - 2021/2022 - Feminist Principles for Digital Justice Working Group (by DAWN and IT for Change)
   - 2021 - Digital Rights in Society Global South-North Algorithmic Governance Working Group (by Paris Peace Forum and Initiate)
-  - 2015 - present - Board of Directors of the Centre of Environment, Technology & Development, Malaysia (CETDEM). 
+  - 2015-2022 - Board of Directors of the Centre of Environment, Technology & Development, Malaysia (CETDEM). 
 
 ### Research Ideas
 Part of my work as a researcher is to write research proposals when I'm bidding for projects or research work. These proposals often take a long time to craft and to tailor to the application. Due to the breadth of my research interests I'm also often making proposals that are outside of my comfort zone, adding to the time spent on each proposal. Instead of letting the rejected proposals languish in some corner of my hard disk, I'm celebrating them and posting some of them up here for interested folks to take a look. I've not updated any of them, so here they are frozen in their time and context (without the name of the institution that I was originally applying for - and I also added my contact details to each file): 

@@ -3,13 +3,13 @@ title: Projects
 layout: 'layouts/page.njk'
 ---
 
-*Last updated: February 2022. I'm working on providing more information, please check back for updates.* 
+*Last updated: August 2022. I'm working on providing more information, please check back for updates.* 
 
 ### Research projects
 Grouped under themes, click to find out more: 
 - Digital rights and communication
-  - 2021/2022: ["Stories in/around the Machine"](https://torch.web.ox.ac.uk/stories-in/around-the-machine) (Grant provided by Oxford University and Minderoo Foundation; collaboration with researchers Yung Au, kat azali, and Srujana Katta; communication partner EngageMedia)
-  - 2021/2022: "To What Extent Does Malaysia’s National Fourth Industrial Revolution (4IR) Policy Address AI Security Risks?" (Commissioned book chapter by Konrad Adenauer Stiftung and Tandem Research/Digital Future Lab, to be published sometime in 2022)
+  - 2021/2022: ["Stories in/around the Machine"](https://torch.web.ox.ac.uk/stories-in/around-the-machine) (Grant provided by Oxford University and Minderoo Foundation; collaboration with researchers Yung Au, kat azali, and Srujana Katta)
+  - 2021/2022: ["To What Extent Does Malaysia’s National Fourth Industrial Revolution (4IR) Policy Address AI Security Risks?"](https://www.ai-in-asia.com/02-to-what-extent-does-malaysias-national-fourth-industrial-revolution-policy-address-ai-security-risks) (Commissioned book chapter by Konrad Adenauer Stiftung and Tandem Research/Digital Future Lab)
   - 2020/2021/2022: [AI Governance in Southeast Asia](/posts/2021-12-15-new-report-out/) (Collaboration with EngageMedia)
   - 2020: Discourses on AI safety in Southeast Asia: Bridging the gap between civil society and the tech community (International Research and Collaboration Award on the Histories of AI, by University of Cambridge - the cross-country study did not happen because of pandemic restrictions)
   - 2019/2020: [Artificial intelligence and human rights in Southeast Asia](/projects/ai-sea-human-rights) (Collaboration with EngageMedia) 
