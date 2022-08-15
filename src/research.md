@@ -4,6 +4,7 @@ layout: 'layouts/page.njk'
 ---
 
 *Last updated: Aug 2022*
+
 I'm currently a Senior Research Associate with Khazanah Research Institute (KRI), focusing mainly on digital and tech policy in the context of Malaysia and Southeast Asia. 
 
 I'm a bit of an academic mutt: I have a PhD in Communication (Nanyang Technological University, Singapore), a Master's degree in Public Policy (University of Malaya, Malaysia), and a Bachelor's degree in Information Systems Engineering (UTAR, Malaysia). 
