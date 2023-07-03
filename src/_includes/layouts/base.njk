@@ -13,8 +13,6 @@
   <style>{% include "assets/css/global.css" %}</style>
   {% block head %}
   {% endblock %}
-  <!--script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async defer></script-->
-  <script async defer data-domain="{{ site.url | replace('https://','') | replace('http://','') }}" src="https://stats.jun-etan.com/js/plausible.js"></script>
 </head>
 <body>
   {% include "partials/global/site-head.njk" %}
@@ -32,7 +30,8 @@
     }
   </script>
   <!--script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async defer></script-->
-  <!--script async defer data-domain="{{ site.url | replace('https://','') | replace('http://','') }}" src="https://plausible.io/js/plausible.js"></script-->
-  <script async defer data-domain="{{ site.url | replace('https://','') | replace('http://','') }}" src="https://stats.leoloso.com/js/plausible.js"></script>
+  {% if site.analyticsScriptURL %}
+    <script defer data-domain="{{ site.url | replace('https://','') | replace('http://','') }}" data-api="{{ site.analyticsAPIURL }}" src="{{ site.analyticsScriptURL }}"></script>
+  {% endif %}
 </body>
 </html>

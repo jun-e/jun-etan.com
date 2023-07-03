@@ -9,5 +9,7 @@
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 10,
   "paymentPointer": "",
+  "analyticsScriptURL": "https://jun-etan.com/masked-source/js/script.js",
+  "analyticsAPIURL": "https://jun-etan.com/masked-source/api/event",  
   "faviconPath": "/assets/favicon.png"
 }
