@@ -10,6 +10,12 @@ My interest in art is in the making of it – drawing and painting – and also 
 
 [Blog posts that are tagged under "art"](/tags/art)
 
+### Sewing
+Over the pandemic I bought myself a sewing machine, and taught myself how to operate it over Youtube. I sincerely expected it to be an impulse buy that I'd regret, but amazingly enough I have proven myself wrong. I'm quite comfortable sewing now and the challenge is more about getting the right fit, which lands me in dressmaking territory, which is the right amount of challenging and rewarding (so far more challenging than rewarding, if I am to be honest). I also like hand sewing for some meditative slow work. 
+
+[Blog posts that are tagged under "sewing"](/tags/sewing)
+
+
 ### Reading
 When I was a kid and the world was simpler, my mum used to leave me at the book shop when she went shopping, where I would entertain myself with favourite authors like Enid Blyton and Lucy Maud Montgomery. As a teenager I read an embarrassing amount of Chinese romance novels from Taiwan, which built me a strong foundation for the language, but probably filled my head with all sorts of nonsense which I fortunately grew out of. In my twenties I force-fed myself with a lot of academic reading, with most of that decade spent within academia. Reading was more an instrument for getting information and I didn't read that much for pleasure anymore. 
 

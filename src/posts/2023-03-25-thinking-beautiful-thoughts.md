@@ -64,7 +64,7 @@ Some ideas:
 
 ---
 
-Ooh. Maybe book-binding. I'm dipping into videos in the Creative Bug website as I'm blogging now, and came across this idea of a 100 day project, which basic idea is that you commit yourself to a creative act that you will do one hundred days straight. This is not quite revolutionary - the lovely Hilary Hahn for instance has a 100daysofpractice hashtag for instance for her violin playing. 
+Ooh. Maybe book-binding. I'm dipping into videos in the Creative Bug website as I'm blogging now, and came across this idea of a 100 day project, which basic idea is that you commit yourself to a creative act that you will do one hundred days straight. This is not quite revolutionary - the lovely Hilary Hahn for instance has a 100daysofpractice hashtag for her violin playing. 
 
 But what was interesting in this video of the prompts that this lady E Bond used - one year she decided to meditate on the subject of trees every day for 100 days, and while doing that she filled a sketchbook full of things that as far as I can tell, do not look like trees in any way, but it doesn't really matter because she would start by thinking about trees and end with something like a drawing of a map. Another year she made a map every day (inspired by her tree map). 
 
