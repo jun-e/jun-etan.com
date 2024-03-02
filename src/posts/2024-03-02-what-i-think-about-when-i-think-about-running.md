@@ -34,51 +34,47 @@ We are now at Week 10, Day 3, which means I had run for about 6 weeks in a row u
 
 --- 
 
-Distance running has never been my thing, and from when I was little it was quite clear that I had no stamina to speak of. Sprinting was fine, I had long legs which worked to my advantage, but it was a regular occurrence that I would double over during basketball sessions or any sort of prolonged exertion, feeling dizzy or needing to puke. 
+Distance running has never been my thing. From when I was little it was quite clear that I had no stamina to speak of. Sprinting was fine, I had long legs which worked to my advantage, but it was a regular occurrence that I would double over during basketball sessions or any sort of prolonged exertion, feeling dizzy or needing to puke. 
 
-If people identify as runners, I identified as a non-runner. Which is why this *is* a Big Deal. I have surprised myself, in the transition from someone who cannot run to someone who can run. We are in unchartered territory here. It is as exhilarating as it is confusing. 
+If people identify as runners, I identify as a non-runner. Which is why this *is* a Big Deal. I have surprised myself, in the transition from someone who completely cannot run to someone who can. We are in uncharted territory here. It is as exhilarating as it is confusing. 
 
-And so I have been telling everyone who will listen about how proud I am of myself, and how this is so weird and wonderful. To a pair of particularly sympathetic ears a couple of weeks ago, I heard myself tell her that running is a creative act to me. It is like putting paint on a canvas, we do it because we are not sure what will come out, and we want to see the outcome of our creation. Similar idea, I have never been a running kind of person, but I am now creating this person who runs. Who is she? What can she see?  
+And so I have been telling everyone who will listen about how proud I am of myself, and how this is so weird and wonderful. To a pair of particularly sympathetic ears a couple of weeks ago, I told her that running is a creative act to me. It is like putting paint on a canvas, some do it because we are not sure what will come out, and we want to see the outcome of our creation. Similar idea, I have never been a running kind of person, but I am now creating this person who runs. Who is she? What can she be?  
 
 ---
 
 There is a poem by Emily Dickinson, "The Going from a World We Know" that has stuck to my mind:
 
-"The going from a world we know
-To one a wonder still
-Is like the child's adversity
-Whose vista is a hill,
-Behind the hill is sorcery
-And everything unknown,
-But will the secret compensate
+"The going from a world we know<br/>
+To one a wonder still<br/>
+Is like the child's adversity<br/>
+Whose vista is a hill,<br/>
+Behind the hill is sorcery<br/>
+And everything unknown,<br/>
+But will the secret compensate<br/>
 For climbing it alone?"
 
 ---
 
-When I finish my 10km training at Week 14, I will know how it feels like to be someone who can run for an hour, non-stop. 
+When I finish my 10km training at Week 14, I will know how it feels like to be someone who can run for an hour without stopping. Consider this half-way up the hill, with a rewarding halfway vista.
 
 How does the world look like to someone who has run a half-marathon (21km)? Is it worth the view? They say that there will be weight loss, but also loss of strength. The training looks gruelling and sports injuries probable. It also looks to be a foolhardy thing to do, given all the plans I have coming up this year. But yet, is it worth the view?
 
-So far this curiosity has been the main driver to my waking up one hour earlier on alternate days, showing up for run after run. Step by step, up the hill so that at some point I can see the sorcery and everything unknown. 
+So far this curiosity has been the main driver to my waking up one hour earlier on alternate days, showing up run after run. Step by step, up the hill so that at some point I can get a glimpse of the sorcery and everything unknown. 
 
-Is that enough to sustain me up to 21km? What does this say about me if I succeed? What does this say about me if I fail? 
+In any case, this was the idea that I recalled during the shower - running as a creative act. If creative acts are for us to find out what we're capable of bringing to the world, this is definitely a rare opportunity to find out parts of me previously undiscovered, and room to create who I can become. Particularly rare in mid life when habits are set and fewer fucks are available to be given. 
 
----
-
-In any case, that was the idea that I recalled during the shower - running as a creative act. If creative acts are for us to find out what we're capable of bringing to the world, this is definitely a rare opportunity, an open door inviting me to find out parts of me previously undiscovered, and room to create who I can become. Particularly rare in mid life when habits are set and fewer fucks are available to be given. 
-
-On one hand I might discover that I am capable of a half marathon. On the other hand I might discover that I am a wimp. It is a fifty-fifty at this point and the curiosity is killing the cat that is me. 
+I might discover that I am capable of a half marathon, or I might discover that I am not. It is fifty-fifty at this point. Can I do it? Can I not? Do I care enough to find out? 
 
 ---
 
 So, I was on a roll with all this running business until I hit a snag. During bootcamp last week I hurt my neck and my arm, when I stupidly did some overhead movements with weights that were too heavy. My entire exercise routine was put on hold while I figured things out with the physiotherapist. No pushing and pressing movements, no running. 
 
-I know this blog is slowly becoming a chronicle of all my sports injuries but I assure you that most of the time my head is screwed on tight, my limbs intact, and I move relatively pain free. It's just something about needing to whine and to make sense of the the injustice of more sports equals more sports injuries, that I dust off my long-neglected blog and lament to my heart's content. 
+I know this blog is slowly becoming a chronicle of all my sports injuries but I assure you that most of the time my head is screwed on tight, my limbs intact, and I move relatively pain free. It's just something about needing to whine and to make sense of the injustice of more sports equals more sports injuries, that I dust off my long-neglected blog and lament to my heart's content. 
 
-And I also wanted to make a note that for the week that I was not able to move (I did, gingerly, go to bootcamp this morning and did all the overhead exercises without weights) I was also having a miserable time. A stressful event had triggered a domino effect of anxieties piling upon anxieties, and I found myself unable to get a grip and pull myself out of a spiral of anger, fear and sadness. The event itself wasn't such a big deal, but the aftermath was debilitating.  
+And I also wanted to make a note that for the week that I was not able to move I was also having a miserable time. A stressful event had triggered a domino effect of anxieties piling upon anxieties, and I found myself unable to get a grip and pull myself out of a spiral of fear, anger and sadness. The event itself wasn't such a big deal, but the aftermath was debilitating.  
 
-It is during these times that I regret not having a regular meditation practice, to fortify myself against my brain's loop of negative thoughts. Exercising would have helped, but I wasn't in the right conditions to do any.
+It is during these times that I regret not having a regular meditation practice, to fortify myself against my brain's loop of negative thoughts. Exercising would have helped, but I wasn't in the right conditions to do any. It feels like my mental health immune system tanked (was also undergoing PMS at that point) and I fell sick for a week. 
 
-It feels like my mental health immune system tanked (was also undergoing PMS at that point) and I fell sick for a week. It feels more comforting and empowering to think about mental health this way - that we are usually healthy and robust mentally as a default, and we can recover from depression and anxiety without these conditions being part of our baseline. 
+After a week of fatigue and mind fog I am now feeling more like myself. 
 
-After a week of fatigue and mind fog I am now feeling more like myself. Tomorrow I will try to run again, a light one as recommended by my physio, but if I feel better we can probably pick up next week from Week 10 Day 3 and march forward to Week 14. Onwards and upwards!
+Tomorrow I will try to run again, a light one as recommended by my physio, but if I feel better we can probably pick up next week from Week 10 Day 3 and march forward to Week 14. Onwards and upwards!
