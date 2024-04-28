@@ -15,7 +15,7 @@ But everything that can be executed has been executed, and everything that canno
 
 —--
 
-Just deleted a chunk of text which I typed up this morning, but I’ve somehow lost the connection to. It feels like a huge waste, especially because we’re staring down the ticking clock at 9pm on a Sunday night and I have not done most of the aforementioned household chores that needed to be done before the week starts - quite likely most of them will need to be deferred to the next week, which really is the story of my life. 
+Just deleted a chunk of text which I typed up this morning, that I’ve somehow lost the connection to. It feels like a huge waste, especially because we’re staring down the ticking clock at 9pm on a Sunday night and I have not done most of the aforementioned household chores that needed to be done before the week starts - quite likely most of them will need to be deferred to the next week, which really is the story of my life. 
 
 But it feels right to not be attached to a string of words, no matter how carefully crafted. I usually have trouble deleting text that I’ve written (粒粒皆辛苦) and prefer to copy-paste to somewhere else where I can recover them if needed (I rarely do). 
 
