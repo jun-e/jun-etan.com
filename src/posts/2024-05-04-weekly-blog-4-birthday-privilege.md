@@ -1,5 +1,5 @@
 ---
-title: Weekly Blog 3 - Birthday privilege
+title: Weekly Blog 4 - Birthday privilege
 metaDesc: 
 socialImage:  
 date: '2024-05-04'
