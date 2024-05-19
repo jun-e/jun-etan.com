@@ -9,8 +9,6 @@ tags:
 
 --- 
 
-Weekly Blog 6: Automating dating
-
 Announcing a 2-month hiatus on this blog because I will be away on leave, and after that away again on training. The work madness will probably be intense when I’m back, anticipating a huge backlog, but I will try to resume regular blogging when I get back to my keyboard.  Here’s to honouring arbitrary commitments set in the past!
 
 ---
