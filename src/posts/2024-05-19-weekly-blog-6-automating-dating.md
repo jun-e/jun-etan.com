@@ -13,7 +13,7 @@ Announcing a 2-month hiatus on this blog because I will be away on leave, and af
 
 ---
 
-Continuing last week’s contemplation on the importance of the process and not the outcome, I have been thinking this week that we seem to be quite intent on shortcutting and automating the meaning out of everything. Case in point: we are now in the era where dating apps are building an AI “dating concierge” can do your dating for you, with other people’s dating concierges, presumably simulating an actual romantic exchange so that you can cut straight to the -  
+Continuing last week’s contemplation on the importance of the process and not the outcome, I have been thinking this week that we seem to be quite intent on shortcutting and automating the meaning out of everything. Case in point: we are now in the era where dating apps are building AI “dating concierges” can do your dating for you, with other people’s dating concierges, presumably simulating an actual romantic exchange so that you can cut straight to the -  
 
 Cut straight to what, really? I mean, I have heard enough of horror stories about dating these days to not envy those in the available pool trying to find a real connection. But would AI solve this problem by automating the process away? I recall my twenties, wrestling with insecurities, mind games and loneliness in turns - definitely not a process that I would like to repeat. But would I wish it all away? 
 
